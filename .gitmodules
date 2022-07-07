@@ -29,3 +29,6 @@
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 	shallow = true
+[submodule "modules/prompt/external/skyeprompt"]
+	path = modules/prompt/external/skyeprompt
+	url = git@github.com:skyethepinkcat/skyeprompt
